@@ -1,0 +1,61 @@
+/* #f{
+    width:26vw;
+    border:black 3px dashed;
+    text-align: left;
+    display: block;
+    margin: auto;
+    margin-top:5vh;
+    background-color: rgb(239, 198, 255);
+    font-size: 4vh;
+}
+#error1{
+    top: 26vh;
+}
+#error2{
+    top: 30vh;
+}
+#error3{
+    top: 52vh;
+}
+#error4{
+    top: 56vh;
+}
+.er{
+    font-size: 2vh;
+    position: absolute;
+    width:18vw;
+    background-color: white;
+    border: red double 3px;
+    right: 18vw;
+}                    */
+#f{
+    width:26vw;
+    border:black 3px dashed;
+    text-align: left;
+    display: block;
+    top:26vh;
+    background-color: rgb(239, 198, 255);
+    font-size: 4vh;
+    position: absolute;
+    right: 12vw;
+}
+#error1{
+    top:4vh;
+}
+#error2{
+    top: 8vh;
+}
+#error3{
+    top: 28vh;
+}
+#error4{
+    top: 32vh;
+}
+.er{
+    font-size: 2vh;
+    position: absolute;
+    width:18vw;
+    background-color: white;
+    border: red double 3px;
+    right: 28vw;
+}                   

@@ -1,0 +1,46 @@
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+G:\שיעור 20 - web api core\hw\project\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+G:\שיעור 20 - web api core\hw\project\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+G:\שיעור 20 - web api core\hw\project\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+G:\שיעור 20 - web api core\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+G:\שיעור 20 - web api core\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+G:\שיעור 20 - web api core\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+G:\שיעור 20 - web api core\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+G:\שיעור 20 - web api core\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+G:\שיעור 20 - web api core\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+D:\תכנות שנה ב\.NET\עותק\project\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\תכנות שנה ב\.NET\עותק\project\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\תכנות שנה ב\.NET\עותק\project\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\תכנות שנה ב\.NET\עותק\project\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\תכנות שנה ב\.NET\עותק\project\BLL\bin\Debug\netcoreapp3.1\DTO.dll
+D:\תכנות שנה ב\.NET\עותק\project\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\תכנות שנה ב\.NET\עותק\project\BLL\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\תכנות שנה ב\.NET\עותק\project\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+D:\תכנות שנה ב\.NET\עותק\project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\תכנות שנה ב\.NET\עותק\project\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\תכנות שנה ב\.NET\עותק\project\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\תכנות שנה ב\.NET\עותק\project\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\תכנות שנה ב\.NET\עותק\project\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\תכנות שנה ב\.NET\עותק\project\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

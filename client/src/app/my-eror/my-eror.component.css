@@ -1,0 +1,18 @@
+p{
+    font-size: 8vh;
+}
+#error{
+    font-size: 12vh;
+}
+div p{
+    text-align: center;
+    display: block;
+}
+#fhone{
+    font-size: 4vh;
+
+}
+a{
+    font-size: 4vh;
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+<form #myAddBookForm="ngForm" (ngSubmit)="save()" id="f">
+    <b>Add new Book:</b><br>
+
+    <label> Title: </label>
+    <input type="text" name="title" #title="ngModel" [(ngModel)]="b.title"/> <br>
+        
+    <label> Summary: </label>
+    <input type="text" name="summary" #summary="ngModel"[(ngModel)]="b.summary" /> <br>
+
+    <label> Author: </label>
+    <input type="text" name="author" #author="ngModel"[(ngModel)]="b.author" /> <br>
+      
+    <label> Age Category: </label>
+    <input type="text" name="ageCategory" #ageCategory="ngModel"[(ngModel)]="b.ageCategory"/> <br>
+
+    <label> Page Count: </label>
+    <input type="text" name="pageCount" #pageCount="ngModel"[(ngModel)]="b.pageCount"/> <br>
+
+    <input type="submit" value="save" [disabled]="!myAddBookForm.valid"/>
+
+    <!-- <p id="error1" class="er" *ngIf="id.touched&&(!id.valid)">Please type the book id</p>
+    <p id="error3" class="er" *ngIf="author.touched&&(!author.valid)">Please type the book author</p>
+    <p id="error2" class="er" *ngIf="title.touched&&(!title.valid)">Please type the title id</p>
+    <p id="error4" class="er" *ngIf="pageCount.value.length>0&&(!pageCount.valid)">the page count must be a number</p> -->
+</form>

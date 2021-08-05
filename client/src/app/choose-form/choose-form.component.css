@@ -1,0 +1,26 @@
+
+    *{
+        vertical-align: top;
+    }
+      .forms_links{
+    font-size: 4vh;
+    display: inline-block;
+    width:33%;
+    height:5vh;
+    background-color: rgb(231, 167, 106);
+           margin-top: 5vh;
+           border: black solid 0.1px;   
+    text-align: center;   
+    cursor: pointer;
+    }
+    a{
+            color: black  !important;
+    text-decoration: none;    cursor: pointer;
+
+    }
+    .active{
+      font-style: italic ;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: brown !important;     cursor: pointer;
+
+}

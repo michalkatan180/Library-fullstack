@@ -1,0 +1,30 @@
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+G:\שיעור 20 - web api core\hw\project\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+G:\שיעור 20 - web api core\hw\project\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+G:\שיעור 20 - web api core\hw\project\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+G:\שיעור 20 - web api core\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+G:\שיעור 20 - web api core\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+G:\שיעור 20 - web api core\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+G:\שיעור 20 - web api core\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+G:\שיעור 20 - web api core\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+G:\שיעור 20 - web api core\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.json
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\DTO\bin\Debug\netcoreapp3.1\DTO.runtimeconfig.dev.json
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\DTO\obj\Debug\netcoreapp3.1\DTO.genruntimeconfig.cache

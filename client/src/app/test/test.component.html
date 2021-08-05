@@ -1,0 +1,36 @@
+<!-- <p>test works!</p> -->
+
+<br><br>
+<div *ngIf="nameEmpty()">נא הכנס את שמך!!</div>
+<input type="text" placeholder="enter your name" [(ngModel)]="testName" [style.background-color]="nameEmptyStyle()"/>
+<!--הצבע לא מותאם לתיבת הטקסט, הוא ישר כחול <input type="text" placeholder="enter your name" [(ngModel)]="testName" [style.background-color]="color"/> -->
+
+<br><br>
+<!-- עשיתי בשתי דרכים -->
+
+
+<p [style.font-size.vh]="koteretSt()"[style.font]="koteretSt2()">הבוחן של {{testName}}</p>
+<!-- <p [class.inputFulled]="!nameEmpty()">הבוחן של {{testName}}</p> -->
+
+<p>the mark: {{mark}}</p>
+
+<p *ngFor="let q of quArr">{{cntFunc()}} question: {{q}} </p>
+
+<input type="text" placeholder="Answare"[(ngModel)]="userAns1"/><br><br>
+
+<input type="text" placeholder="Answare"[(ngModel)]="userAns2"/><br><br>
+
+<input type="text" placeholder="Answare"[(ngModel)]="userAns3"/><br><br>
+
+<input type="text" placeholder="Answare"[(ngModel)]="userAns4"/><br><br>
+
+<button (click)="check()">ok</button>
+
+<!-- למה לא עובד? -->
+
+<!-- <div [mark]="mark">
+    <p *NgSwitchCase="100">ציון מקסימלי</p>
+    <p *NgSwitchCase="0">ציון מינימלי</p>
+    <p *NgSwitchDefault>ציון ביניים</p>
+</div> -->
+

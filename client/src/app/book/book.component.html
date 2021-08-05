@@ -1,0 +1,8 @@
+
+<div>
+    <b> {{b.title}}</b>
+    <p>{{b.author}}: {{b.summary}}</p>
+    <p *ngIf="IsBig()">ספר עבה במיוחד</p>
+    <p *ngIf="IsSmall()">ספר דק במיוחד</p>
+    <app-show-category [inputCategory]="c"></app-show-category>
+</div>

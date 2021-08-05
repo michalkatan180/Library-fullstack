@@ -1,0 +1,18 @@
+<div id="allBorrowers">
+    <div *ngFor="let x of borrowerList">
+        <p >{{x.firstName}} {{x.lastName}} ({{x.id}})</p>
+        <a class="tik"*ngIf="x.email" href={{x.email}}>send Fidbek</a>
+        <p  class="tik"*ngIf="x.email==''&&x.phoneNumber!=''">{{x.phoneNumber}}</p>
+</div>
+</div>
+
+
+
+
+<input id="checkBoxNew" type="checkbox"  [(ngModel)]="gg" />
+<label id="labelNew">New</label>
+
+<app-my-form2 id="addBorrowerForm" (submit)="clear_gg()" *ngIf="gg"></app-my-form2>
+
+
+<!-- (added)="wantToAddNew($event)"  -->

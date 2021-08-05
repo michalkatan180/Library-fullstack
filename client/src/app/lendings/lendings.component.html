@@ -1,0 +1,15 @@
+<div>
+    <div *ngFor="let el of lendings" class="lendings_notes"
+        [ngStyle]="{'background-color':isReturn(el)? 'turquoise':'pink'}">
+        <p><b>Lending ID: </b>{{el.id}}</p>
+        <p><b>Borrower: </b>({{el.borrowerId}}) {{el.borrowerLastName}} {{el.borrowerFirstName}}</p>
+        <p><b>Book: </b>({{el.bookId}}) {{el.bookTitle}}</p>
+        <p><b>Lending date: </b>{{el.lendingDate | date:'dd-MM-yyyy'}} {{el.lendingDate | date:'EEE'}}</p>
+        <p *ngIf="isReturn(el)"> <b>Return date: </b> {{el.returnDate| date:'dd-MM-yyyy'}}</p>
+        <p *ngIf="isLate(el)" class="must_return">The book must be returned soon!</p>
+    </div>
+    <br>
+</div>
+
+<!-- תכלת אם החזיר את הספר -->
+<!-- ורוד אם טרם החזיר -->

@@ -1,0 +1,26 @@
+
+    *{
+        vertical-align: top;
+    }
+      .menu_links{
+    font-size: 4vh;
+    display: inline-block;
+    width:19%;
+    height:5vh;
+    background-color: antiquewhite;
+           margin-top: 1vh;
+           border: black solid 0.1px;   
+    text-align: center;   
+    cursor: pointer;
+    }
+    a{
+            color: black  !important;
+    text-decoration: none;    cursor: pointer;
+
+    }
+    .active{
+      font-style: italic ;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: yellowgreen !important;     cursor: pointer;
+
+}

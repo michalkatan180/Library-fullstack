@@ -1,0 +1,29 @@
+
+<form [formGroup]="myDriven" (ngSubmit)="save()" id="f">
+        <b>Add new Lending:</b><br>
+
+    <label>
+        Borrower:
+        <select formControlName="borrowerId"
+         [style.borderColor]="myDriven.controls.borrowerId.valid?'':myDriven.controls.borrowerId.touched?'red':''" >
+            <option *ngFor="let i of allBorrowers" [value]="i.id">{{i.id}} {{i.firstName}} {{i.lastName}}</option>
+        </select>
+    </label><br>
+
+    <label>
+        Book:
+        <select formControlName="bookId"
+          [style.borderColor]="myDriven.controls.bookId.valid?'':myDriven.controls.bookId.touched?'red':''" >
+            <option *ngFor="let i of allBooks" [value]="i.id">{{i.id}} {{i.title}}</option>
+        </select>
+    </label><br>
+
+    <label>
+        <input type="submit" value="save" [disabled]="!myDriven.valid"/>
+    </label>
+
+    
+    <p id="error1" class="er" *ngIf="myDriven.controls.borrowerId.touched&&(!myDriven.controls.borrowerId.valid)">Please choose borrower id</p>
+    <p id="error2" class="er" *ngIf="myDriven.controls.bookId.touched&&(!myDriven.controls.bookId.valid)">Please choose book id</p>
+
+</form>

@@ -1,0 +1,33 @@
+<form [formGroup]="myFormGroup" (ngSubmit)="save()" id="f" [style.display]="displayForm">
+    <b>Add new borrower:</b><br>
+
+    <!-- <label> id: <input type="text" formControlName="id"
+            [style.borderColor]="myFormGroup.controls.id.valid?'':myFormGroup.controls.id.touched?'red':''" />
+    </label><br> -->
+    <label> tz: <input type="text" formControlName="tz"
+            [style.borderColor]="myFormGroup.controls.tz.valid?'':myFormGroup.controls.tz.touched?'red':''" />
+    </label><br>
+
+    <label> age category: </label>
+    <select  formControlName="ageCategory">
+        <option *ngFor="let i of allCategory" [value]="i.id" [style.backgroundColor]="i.color">{{i.name}} </option>
+    </select><br>
+
+    <label> first name:</label> <input type="text" formControlName="firstName" /> <br>
+    <label> last name: </label> <input type="text" formControlName="lastName" /><br>
+    <label> phone number: </label> <input type="text" formControlName="phoneNumber"
+        [style.borderColor]="myFormGroup.controls.phoneNumber.valid?'':myFormGroup.controls.phoneNumber.value.length>0?'red':''" /><br>
+    <label> email: </label> <input type="email" formControlName="email"
+        [style.borderColor]="myFormGroup.controls.email.valid?'':myFormGroup.controls.email.value.length>0?'red':''" /><br>
+    <input type="submit" value="save" class="submit" [disabled]="!myFormGroup.valid" /> <br>
+    <label> <input type="reset" value="clear" /> </label><br>
+    <p id="error2" class="er" *ngIf="myFormGroup.controls.tz.touched&&(!myFormGroup.controls.tz.valid)">Please type tz:
+        9 numbers</p>
+    <p id="error1" class="er" *ngIf="myFormGroup.controls.id.touched&&(!myFormGroup.controls.id.valid)">Please type id
+    </p>
+    <p id="error3" class="er"
+        *ngIf="myFormGroup.controls.phoneNumber.value.length>0&&(!myFormGroup.controls.phoneNumber.valid)">The phone
+        number is not valid</p>
+    <p id="error4" class="er" *ngIf="myFormGroup.controls.email.value.length>0&&(!myFormGroup.controls.email.valid)">The
+        email is not valid</p>
+</form>

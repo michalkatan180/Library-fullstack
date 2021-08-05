@@ -1,0 +1,17 @@
+.categoryLink{
+   font-size: 3.4vh;
+   display: inline-block;
+   width:19.6%;
+   height:4vh;
+   margin-top: 2vh;
+   border: black solid 0.2px;   
+   text-align: center;   
+   color: wheat !important;
+   text-shadow:solid black 5px;
+   cursor: pointer;
+}   
+.active{
+   font-style: bolder;
+   cursor: pointer;
+   color: black !important;
+}

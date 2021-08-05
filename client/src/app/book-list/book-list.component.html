@@ -1,0 +1,16 @@
+<app-category></app-category>
+
+<div id="allBooks">
+     <a class="w" *ngFor="let bo of books" routerLink="/toOneBook/{{bo.id}}" [class.errorDetails]="check(bo)">
+          <b>{{bo.id  }}</b>
+          <p class="title_author">{{" "+bo.title+"-----"+bo.author}}</p>
+     </a>
+     <p *ngIf="books.length==0">no books in list</p>
+     <p *ngIf="books.length>0">{{"There are "+books.length+" books"}}</p>
+
+     <div id="lookFor_div">
+          <input type="text" [(ngModel)]="searchTxt">
+          <p *ngIf="searchTxt">search for: {{searchTxt}}</p>
+          <div *ngIf="searchTxt">{{searchTxt|textSearch}}</div>
+     </div>
+</div>

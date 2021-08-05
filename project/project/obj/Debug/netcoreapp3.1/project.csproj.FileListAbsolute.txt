@@ -1,0 +1,349 @@
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\DAL.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.Manifest.cache
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.xml
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\scopedcss\bundle\project.styles.css
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.RazorTargetAssemblyInfo.cache
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\appsettings.json
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\project.exe
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\project.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\project.pdb
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\DAL.pdb
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.MvcApplicationPartsAssemblyInfo.cache
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.csproj.CopyComplete
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.pdb
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Humanizer.dll
+W:\כתות ו\הנדסת תוכנה\תלמידות\קטן מיכל\C# מתקדם\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\appsettings.json
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\project.exe
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\project.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\project.pdb
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Humanizer.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\DAL.dll
+G:\שיעור 20 - web api core\hw\project\project\bin\Debug\netcoreapp3.1\DAL.pdb
+G:\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+G:\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+G:\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+G:\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+G:\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.MvcApplicationPartsAssemblyInfo.cache
+G:\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.Manifest.cache
+G:\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.xml
+G:\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\scopedcss\bundle\project.styles.css
+G:\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.RazorTargetAssemblyInfo.cache
+G:\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.csproj.CopyComplete
+G:\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.dll
+G:\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.pdb
+G:\שיעור 20 - web api core\hw\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\project.exe
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\project.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\project.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\BLL.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\DAL.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\DTO.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\obj\Debug\netcoreapp3.1\project.MvcApplicationPartsAssemblyInfo.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.Manifest.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.xml
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\obj\Debug\netcoreapp3.1\scopedcss\bundle\project.styles.css
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\obj\Debug\netcoreapp3.1\project.RazorTargetAssemblyInfo.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\obj\Debug\netcoreapp3.1\project.csproj.CopyComplete
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\obj\Debug\netcoreapp3.1\project.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\obj\Debug\netcoreapp3.1\project.pdb
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\תכנות שנה ב\.NET\21 ב אייר (בסמינר)\hw\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\project.exe
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\project.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\project.pdb
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\BLL.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\DAL.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\DTO.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\תכנות שנה ב\.NET\עותק\project\project\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\תכנות שנה ב\.NET\עותק\project\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+D:\תכנות שנה ב\.NET\עותק\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+D:\תכנות שנה ב\.NET\עותק\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+D:\תכנות שנה ב\.NET\עותק\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+D:\תכנות שנה ב\.NET\עותק\project\project\obj\Debug\netcoreapp3.1\project.MvcApplicationPartsAssemblyInfo.cache
+D:\תכנות שנה ב\.NET\עותק\project\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.Manifest.cache
+D:\תכנות שנה ב\.NET\עותק\project\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.xml
+D:\תכנות שנה ב\.NET\עותק\project\project\obj\Debug\netcoreapp3.1\scopedcss\bundle\project.styles.css
+D:\תכנות שנה ב\.NET\עותק\project\project\obj\Debug\netcoreapp3.1\project.RazorTargetAssemblyInfo.cache
+D:\תכנות שנה ב\.NET\עותק\project\project\obj\Debug\netcoreapp3.1\project.csproj.CopyComplete
+D:\תכנות שנה ב\.NET\עותק\project\project\obj\Debug\netcoreapp3.1\project.dll
+D:\תכנות שנה ב\.NET\עותק\project\project\obj\Debug\netcoreapp3.1\project.pdb
+D:\תכנות שנה ב\.NET\עותק\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\project.exe
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\project.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\project.pdb
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\BLL.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\DAL.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\DTO.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\obj\Debug\netcoreapp3.1\project.MvcApplicationPartsAssemblyInfo.cache
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.Manifest.cache
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\obj\Debug\netcoreapp3.1\staticwebassets\project.StaticWebAssets.xml
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\obj\Debug\netcoreapp3.1\scopedcss\bundle\project.styles.css
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\obj\Debug\netcoreapp3.1\project.RazorTargetAssemblyInfo.cache
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\obj\Debug\netcoreapp3.1\project.csproj.CopyComplete
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\obj\Debug\netcoreapp3.1\project.dll
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\obj\Debug\netcoreapp3.1\project.pdb
+D:\תכנות שנה ב\.NET\פרויקט מתוקן\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache

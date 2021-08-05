@@ -1,0 +1,6 @@
+<app-show-category [inputCategory]="c" routerLinkActive="active" *ngFor="let c of categoryList" [title]="c.description"
+    routerLink="/toCategoryBooks/{{c.id}}" class="categoryLink">
+</app-show-category>
+
+<div routerLink="/toBooks" routerLinkActive="active" class="categoryLink" [style.backgroundColor]="colorOfLinkAll">all</div>
+

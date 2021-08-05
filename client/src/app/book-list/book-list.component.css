@@ -1,0 +1,55 @@
+.category_link{
+    display: inline-block;
+cursor: pointer;    
+margin-left: auto;
+margin-right: auto;
+width: 10vw;
+text-align: center;
+}
+#category_menu{
+margin-top:2vh;
+margin-right: auto;
+margin-left: auto;
+width:40vw;
+} 
+*{    font-size:1.8vh; 
+}
+.w{
+    display: block;
+    cursor: pointer;    
+    font-size: 2.5vh;
+    text-align: start;
+    color: black  !important;
+    text-decoration: none;
+}
+#allBooks{
+    margin-top:2vh;
+    margin-right: auto;
+    margin-left: auto;
+    width: 26vw;
+}
+b{  
+    display: inline-block;
+      font-size: 2.1vh;
+}
+.errorDetails{
+    color: gray   !important;
+    font-style: italic;
+}    
+.active{
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: yellowgreen !important;
+ }
+.title_author{
+display: inline;
+text-align: right;
+}
+a{  
+    color: black  !important;   
+    text-decoration: none;
+    font-size:3vh;
+    cursor: pointer;
+}
+#se{
+direction: rtl}
